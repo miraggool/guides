@@ -6,7 +6,7 @@ conda info --envs
 </pre>
 2. 가상환경 생성
 <pre>
-conda create --name "가상환경명" [추가모듈]
+conda create --name "가상환경명" python=버전
 </pre>
 3. 가상환경 삭제
 <pre>
