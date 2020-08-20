@@ -4,7 +4,7 @@ http://rogerdudler.github.io/git-guide/index.ko.html
 
 ## 사용준비
 git config user.name name
-git config user.email email
+git config user.email email [--global]
 git remote add alias url
 
 git config --list
